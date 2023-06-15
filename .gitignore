@@ -1,0 +1,9 @@
+# Default ignored files
+/shelf/
+/.idea/
+*.zip
+.DS_Store
+env/
+.env
+__pycache__/
+*.py[cod]
